@@ -1,0 +1,6 @@
+- Tie user accounts to emails for easier recovery
+- 'Forgot my password' feature for users to recover accounts
+- Prompt users to login on purchase page if they haven't already
+- If making a purchase without an account prompt user to create account to store credendtials for faster purchasing next time
+- Allow user reviews of products to allow customers to make informed decisions
+- Include product specs to keep customers on page as much as possible (if users go to different page to find information they might purchase from a different store front also)
